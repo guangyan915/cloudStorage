@@ -1,0 +1,60 @@
+Tue Apr  4 15:52:07 2023
+Failed to execute SQL: Query was empty
+Tue Apr  4 15:53:46 2023
+Failed to execute SQL: Query was empty
+Tue Apr  4 16:00:09 2023
+Failed to execute SQL: Query was empty
+Tue Apr  4 16:01:52 2023
+Failed to execute SQL: Query was empty
+Tue Apr  4 16:03:19 2023
+Failed to execute SQL: Query was empty
+Tue Apr  4 16:05:29 2023
+Failed to execute SQL: Unknown column 'jack' in 'where clause'
+Tue Apr  4 16:25:24 2023
+Failed to execute SQL: Unknown column 'jack' in 'where clause'
+Tue Apr  4 16:33:45 2023
+Failed to execute SQL: Unknown column 'jack' in 'where clause'
+Tue Apr  4 16:37:08 2023
+Failed to execute SQL: Unknown column 'jack' in 'where clause'
+Tue Apr  4 16:40:20 2023
+Failed to execute SQL: Unknown column 'jack' in 'where clause'
+Tue Apr  4 16:41:56 2023
+Failed to execute SQL: Unknown column 'jack' in 'where clause'
+Tue Apr  4 16:42:41 2023
+Failed to execute SQL: Unknown column 'jack' in 'where clause'
+Tue Apr  4 16:44:40 2023
+Failed to execute SQL: Unknown column 'jack' in 'where clause'
+Wed Apr  5 00:56:54 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 00:57:44 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 00:59:38 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 00:59:53 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 01:00:50 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 01:01:25 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 01:02:36 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 01:02:59 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 01:05:10 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 01:05:23 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 01:08:25 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 01:08:35 2023
+Failed to execute SQL: Query was empty
+Wed Apr  5 23:48:49 2023
+Failed to execute SQL: Table 'cloudStorageInfo.userinfo' doesn't exist
+Sat Apr  8 00:43:53 2023
+Failed to execute SQL: Lost connection to MySQL server during query
+Wed May 24 12:41:06 2023
+Failed to execute SQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%0' at line 1
+Thu May 25 15:58:49 2023
+Failed to execute SQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id1 = 3 and id2 = 3' at line 1
+Thu May 25 15:58:49 2023
+Failed to execute SQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id1 = 3 and id2 = 3' at line 1

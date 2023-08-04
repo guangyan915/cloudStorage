@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/close_black.png</file>
+        <file>img/mini.png</file>
+        <file>img/set_up.png</file>
+        <file>img/QQ.png</file>
+        <file>img/wb.png</file>
+        <file>img/wx.png</file>
+        <file>img/logo.png</file>
+        <file>img/xk.jpg</file>
+        <file>img/close2.png</file>
+        <file>img/mini2.png</file>
+        <file>img/set_up2.png</file>
+        <file>img/magnify.png</file>
+        <file>img/shrink.png</file>
+        <file>img/magnify2.png</file>
+        <file>img/log.png</file>
+        <file>img/offlone.png</file>
+        <file>img/online.png</file>
+        <file>img/message.png</file>
+    </qresource>
+    <qresource prefix="/left">
+        <file>img/computer.png</file>
+        <file>img/file.png</file>
+        <file>img/friend.png</file>
+        <file>img/friend1.png</file>
+        <file>img/file1.png</file>
+        <file>img/transmit.png</file>
+    </qresource>
+    <qresource prefix="/add_friend">
+        <file>img/add_friend/find.png</file>
+        <file>img/add_friend/addFriendIcon.png</file>
+    </qresource>
+    <qresource prefix="/file_type">
+        <file>img/file_type/dir.png</file>
+        <file>img/file_type/MP3.png</file>
+        <file>img/file_type/photo.png</file>
+        <file>img/file_type/what.png</file>
+    </qresource>
+    <qresource prefix="/file_opt">
+        <file>img/file_op/create.png</file>
+        <file>img/file_op/flush.png</file>
+        <file>img/file_op/return.png</file>
+        <file>img/file_op/upload.png</file>
+    </qresource>
+</RCC>
